@@ -35,5 +35,5 @@ and software engineering placements.
 
 ## 👩‍💻 Author
 
-Kirthana
+P H Kirthana
 Computer Science Engineering Student
